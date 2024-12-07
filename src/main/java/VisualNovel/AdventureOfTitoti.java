@@ -39,5 +39,5 @@ public class AdventureOfTitoti {
         con.add(TittleNamePanel);
         con.add(starButtonPanel);
     }
-
+//testing commant to code together
 }
